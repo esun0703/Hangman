@@ -1,0 +1,94 @@
+body,html{
+	height:100%;
+	width:100%;
+}
+
+body {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  	background-image: url(../images/smoke.jpg);
+  	padding-right:0;
+  	margin-bottom: 200px;
+}
+
+.header {
+	text-align:center;
+  	color: #333;
+	text-align:center;
+	padding-top:160px;
+}
+
+
+.header img {
+	width:80%;
+	margin-bottom:80px;
+}
+
+
+#playGameBtn {
+  color: #b7b2b2;
+  background-color: #68000c;
+  padding: 15px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+
+p{
+	color:#fff;
+	text-align:center;
+	font-family: 'Lato', sans-serif;
+  	font-weight: 300;
+  	color: #333;
+}
+
+h4{
+
+	color:#fff;
+	text-align:center;
+	font-family: 'Lato', sans-serif;
+  	font-weight: 300;
+  	color: #68000c;	
+}
+
+h3{
+	text-align:center;
+	font-family: 'Bevan', cursive;
+	font-size:35px;
+  	font-weight: 300;
+  	color: #68000c;
+}
+
+#display{
+	color:#fff;
+	background-image:url(../images/rock.png);
+	width:40%;
+	height:400px;
+	opacity:.9;
+}
+
+#display p{
+	color:white;
+	opacity:1;
+	font-size:40px;
+	margin-top:30px;
+}
+
+#gray{
+	margin-top:120px;
+	height:500px;
+	padding-top:60px;
+	padding-left:40px;
+	background-color:#c1c0bf;
+	opacity:.5;
+}
+
+#gray p{
+
+}
+
+
+#winOrLose{
+	
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	color:#a59d9d;
+}
