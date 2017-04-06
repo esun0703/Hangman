@@ -1,7 +1,7 @@
 #Hangman
 
 	A classic hangman game with a classic rock twist.
-heroku link soon. 
+	https://classic-rock-hangman.herokuapp.com/
 
 #Prerequisites
 
